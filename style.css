@@ -1,0 +1,23 @@
+h1 {
+    background-color: Teal;
+    text-align: Center;
+}
+
+.contact {
+    color: Blue;
+    background-color: white;
+    float: right;
+}
+
+.portfolio {
+    color: Blue;
+    background-color: white;
+    float: right;
+}
+
+.about {
+    color: Blue;
+    background-color: white;
+    float: right;
+}
+
